@@ -1,2 +1,4 @@
-autopep8 is not running on save
-flake8 is checking E501 "line to long" but shouldn't
+Then continue to section 8 of the udemey tutorial
+
+when ready to deploy...
+Use Github Actions of CI (Continuous Intigtation) where it will run tests when you push and pull.

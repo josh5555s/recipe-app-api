@@ -1,4 +1,3 @@
-Then continue to section 8 of the udemey tutorial
 
 when ready to deploy...
 Use Github Actions of CI (Continuous Intigtation) where it will run tests when you push and pull.
